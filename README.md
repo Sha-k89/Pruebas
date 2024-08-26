@@ -2,4 +2,6 @@
 
 ## Probando
 
-Es una prueba inicial
+Añdo esta linea
+
+Y borre la anterior
